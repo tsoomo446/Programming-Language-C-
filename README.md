@@ -1,6 +1,6 @@
 # C Programming Labs - [CSII201 ,Програмчлалын хэл Cи]
 
-A collection of laboratory exercises for **C Programming**, part of the **[Subject Name]** course at [University Name].
+A collection of laboratory exercises for **C Programming**, part of the **[CSII201 ,Програмчлалын хэл Cи]** course at National University of Mongolia.
 
 ---
 
